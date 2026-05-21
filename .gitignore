@@ -14,10 +14,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Dados (CSV pode ser grande ou sensível — baixe via link do enunciado)
-data/
-*.csv
-
 # Modelos treinados
 models/
 *.pkl
