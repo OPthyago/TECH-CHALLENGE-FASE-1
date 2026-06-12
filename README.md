@@ -145,10 +145,7 @@ jupyter notebook Notebook/analise_nps.ipynb   # Etapas 1 a 3 (negócio, target, 
 jupyter notebook "Notebook/Desafio 4.ipynb"   # Etapa 4 (modelo preditivo — opcional)
 ```
 
-No Jupyter, execute as células na ordem (menu **Run → Run All Cells**).
-
-- **`analise_nps.ipynb`** lê os dados de `../Dados/cliente_nps.csv` (caminho relativo já configurado), portanto deve ser executado a partir da pasta `Notebook/`.
-- **`Desafio 4.ipynb`** espera o arquivo `desafio_nps_fase_1.csv` na pasta de execução. É a mesma base de `Dados/cliente_nps.csv` — copie/renomeie o arquivo para a pasta `Notebook/` (ou ajuste o caminho na célula de carregamento) antes de rodar.
+No Jupyter, execute as células na ordem (menu **Run → Run All Cells**). Ambos os notebooks leem os dados de `../Dados/cliente_nps.csv` (caminho relativo já configurado), portanto devem ser executados a partir da pasta `Notebook/`.
 
 ### Dependências
 
