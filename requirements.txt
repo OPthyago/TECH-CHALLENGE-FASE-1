@@ -1,6 +1,9 @@
 pandas
+numpy
 matplotlib
 seaborn
 notebook
 ipykernel
 plotly
+scikit-learn
+xgboost
