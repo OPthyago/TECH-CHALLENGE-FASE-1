@@ -18,8 +18,8 @@ Análise de dados de um e-commerce com foco em entender **quais fatores operacio
 
 ## 🎥 Apresentação
 
-- **Vídeo de apresentação:** [Assistir no YouTube](https://www.youtube.com/watch?v=mExzq1QgG50)
-- **Slides (Google Apresentações):** [Abrir apresentação](https://docs.google.com/presentation/d/17AFYSSpIAT38nBw1gKd0ZoS5_CU34zm0F6JeJY5lHn4/edit?slide=id.g3ec6b6e842e_2_233#slide=id.g3ec6b6e842e_2_233)
+- **Vídeo de apresentação:** [Assistir no YouTube](https://youtu.be/2C_h8jNBqAs)
+- **Slides (Google Apresentações):** [Abrir apresentação](https://docs.google.com/presentation/d/17AFYSSpIAT38nBw1gKd0ZoS5_CU34zm0F6JeJY5lHn4/edit?usp=sharing)
 
 ---
 
